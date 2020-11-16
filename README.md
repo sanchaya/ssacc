@@ -1,6 +1,8 @@
-# TRA Digital Kannada Books
+#SSACC Digital Kannada Books
 
-TRA Digital Kannada Books is a showcase of the #ServantsOfKnowledge project works @Sanchaya & @SanchiFoundation
+ಶ್ರೀ ‍ಶಂಕರ ಆರ್ಟ್ಸ್ & ಕಾಮರ್ಸ್ ಕಾಲೇಜು - ‌ಪುಸ್ತಕ ಸಂಚಯ - ‌ಈ ಪುಸ್ತಕಗಳನ್ನು ಶಂಕರ ಆರ್ಟ್ಸ್ & ಕಾಮರ್ಸ್ ಕಾಲೇಜು, ನವಲಗುಂದ ಹಾಗೂ ಸಂಚಿ ಫೌಂಡೇಶನ್ (https://sanchifoundation.org) ಹಾಗೂ ಸಂಚಯದ (https://sanchaya.org) ವತಿಯಿಂದ ಇಂಡಿಯನ್ ಅಕಾಡೆಮಿ ಆಫ್ ಸೈನ್ಸ್ಸ್, ಬೆಂಗಳೂರಿನಲ್ಲಿ ಜ್ಞಾನದ ಸೇವಕರು (Servants Of Knowledge) ಸಮುದಾಯ ಸಹಭಾಗಿತ್ವದ ಕೆಲಸದಡಿಯಲ್ಲಿ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.
+
+SSACC Digital Kannada Books is a showcase of the #ServantsOfKnowledge project works @Sanchaya & @SanchiFoundation
 
 Check it out : https://sanchaya.org & https://sanchifoundation.org
 
@@ -19,8 +21,6 @@ Thanks per advance !
 
 
 ## HISTORY
-
-
 
 
 ## Licence
